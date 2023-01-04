@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sufi ",
+      "email": "Sufi@live.com",
+      "password": "pass123",
+      "role": "USER"
+    },
+    {
+      "id": 2,
+      "name": "Sufiyan",
+      "email": "Sufiyan@gmail.com",
+      "password": "pass123",
+      "role": "ADMIN"
+    }
+   
+  ],
+  "post": [],
+  "masai": []
+}
