@@ -59,14 +59,14 @@
 
   "users" : [
     {
-     "id": "1",
+     "id": 1,
      "email": "sufi@gmail.com",
       "username": "sufi",
       "password" : "12345",
      "tasks": []
     },
     {
-    "id": "2",
+    "id": 2,
      "email": "masai@gmail.com",
       "username": "masai",
       "password" : "123456",
