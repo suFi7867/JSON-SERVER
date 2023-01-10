@@ -93,7 +93,31 @@
        "gender": "Female",
        "image" : "https://images.dog.ceo/breeds/clumber/n02101556_2642.jpg"
     
-     }
+     },
+     {
+      "name": "MEHER",
+      "age": "4",
+      "place": "Pune",
+      "gender": "Male",
+      "image": "https://media-be.chewy.com/wp-content/uploads/2022/09/27100424/cavalier-king-charles-spaniel-cute-dogs.jpg",
+      "id": 3
+      },
+      {
+        "name": "Kutiya",
+        "age": "1",
+        "place": "Pune",
+        "gender": "Male",
+        "image": "https://media-be.chewy.com/wp-content/uploads/2022/09/27100424/cavalier-king-charles-spaniel-cute-dogs.jpg",
+        "id": 4
+        } ,
+        {
+          "name": "Pooja",
+          "age": "7",
+          "place": "Pune",
+          "gender": "Female",
+          "image": "https://media-be.chewy.com/wp-content/uploads/2022/09/27100424/cavalier-king-charles-spaniel-cute-dogs.jpg",
+          "id": 5
+          }
 
 
   ]
