@@ -72,6 +72,30 @@
       "password" : "123456",
      "tasks": []
     }
+  ],
+
+  "dogs" : [
+
+    {
+      "id": 1,
+       "name": "Cherry",
+       "age" : 2,
+       "place" : "Visakhapatnam",
+       "gender": "Male",
+       "image" : "https://images.dog.ceo/breeds/affenpinscher/n02110627_11262.jpg"
+    
+     },
+     {
+      "id": 2,
+       "name": "Nazmin",
+       "age" : 5,
+       "place" : "Karnatka",
+       "gender": "Female",
+       "image" : "https://images.dog.ceo/breeds/clumber/n02101556_2642.jpg"
+    
+     }
+
+
   ]
  
 
